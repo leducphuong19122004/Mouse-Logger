@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.log
+*.pdb
+*.obj
+*.exe
+*.dll
+*.lib
+*.idb
+*.tlog
+*.ipch/
+*.opensdf
+*.cache
+*.ilk
+Debug/
+Release/
+x64/
+build/
